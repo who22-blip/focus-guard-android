@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FOCUS GUARD</string>
+    <string name="accessibility_service_description">Monitors foreground apps and browser search bars solely on-device to block adult content and trigger your self-discipline intervention screen.</string>
+</resources>
